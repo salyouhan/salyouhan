@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**salyouhan/salyouhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Salma and I’m currently working on the CoGrammar Software Engineering bootcamp 🔭.
 
-Here are some ideas to get you started:
+Through it, I am learning Python :snake:. Some things I can do now are:
+- :floppy_disk: creating, storing and mutating variables,
+- :loop: iteration,
+- :computer: conditional statements (boolean logic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a small code snippet as an idea:
+```python
+   for x in range(9):
+     if x < 5:
+        print("x is currently " + x + " which is less than 5!")
+     else:
+        print("x is bigger than 5 now!")
+```
+
+I look forward to learning much more :book:!
